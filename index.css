@@ -1,0 +1,23 @@
+*{
+    background-color: #85c8f2;
+    font-family: monospace;
+}
+
+#title{
+    color: rgb(8, 8, 113);
+    font-size: 45px;
+    text-align: center;
+}
+
+.link{
+    font-size: 22px;
+    text-align: left;
+}
+
+.title-img{
+    height: auto;
+    width: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

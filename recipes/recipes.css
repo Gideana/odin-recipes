@@ -1,0 +1,33 @@
+*{
+    background-color: #c1f2ed;
+    font-family: monospace;
+}
+
+#title{
+    color: rgb(3, 3, 198);
+    font-size: 42px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#sub-title{
+    color: rgb(39, 18, 99);
+    font-size: 30px;
+    text-align: left;
+}
+
+p{
+    text-align: center;
+}
+.text{
+    font-size: 20px;
+    color: rgb(39, 18, 99);
+}
+
+img{
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
